@@ -10,3 +10,5 @@ variables: vert1_id,	vert2_id,	message_text,	SKI,	MKI,	DKI, SKC,	MKC,	DKC,	week,
 
 coded data set (with cognitive codes and social participatory roles) named "cog_soc_role"
 variables: vert1_id,	SKI,	MKI,	DKI,	WKI (weighted KI),	SKC,	MKC,	DKC,	WKC (weighted KC),	week, participatory_role
+
+Under the social interaction folder, there are social interaction files for each disscussion and the whole course.
